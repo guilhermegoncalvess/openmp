@@ -10,7 +10,7 @@ OpenMP (Open Multi-Processing) is API that supports multi-platform shared-memory
 
 `gcc NameFile.c -o outFile -fopenmp`
 <br>or<br>
-`g++ NameFile.c -o outFile -fopenmp`
+`g++ NameFile.cpp -o outFile -fopenmp`
 
 ### 💻 Execute:
 
