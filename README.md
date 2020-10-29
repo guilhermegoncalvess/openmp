@@ -1,2 +1,18 @@
 # openmp
-Concepts and parallel codes using openmp
+
+## :book: Description
+OpenMP (Open Multi-Processing) is API that supports multi-platform shared-memory multiprocessing programming in C, C++, and Fortran. This repository has basic concepts and parallel code such as directives, clauses and executing the environment routines.
+
+<div style="text-align:center"><img src="./concepts.png"/></div>
+<div style="text-align:center"><img src="./forkjoin.png"/></div>
+
+
+## 👨🏻‍💻 compile the code with: 
+
+`gcc NameFile.c -o outFile -fopenmp`
+<br>or<br>
+`g++ NameFile.c -o outFile -fopenmp`
+
+### 💻 Execute:
+
+`./outFile`
